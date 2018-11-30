@@ -10,20 +10,20 @@ Install the module using `npm install acronimjs` andd then import the module int
 
 Example code:
 
-    ```javascript 
+```javascript 
 
-        let acronm = require('acronimjs') // for Nodejs
-        
-        // or
+    let acronm = require('acronimjs') // for Nodejs
 
-        import acronm from "acronimjs" // ES6 modules
+    // or
 
-    ```
+    import acronm from "acronimjs" // ES6 modules
+
+```
 
 Then for implementation and how to work with the `acronimjs` you can use the asynchronous call by passing a statement and then using a callback to get your result. 
 
-    ```javascript
 
+```javascript
         acronm(statement, function(err, result) {
             try {
                 console.log(result)
@@ -31,8 +31,7 @@ Then for implementation and how to work with the `acronimjs` you can use the asy
                 console.log(err)
             }
         })
-
-    ```
+```
 
 I'm sure by now you can just copy the code and replace statement with a string (sentence of your choice) to create an acronym. Just take your time and see the best way of using this module, although you currently don't have a choice at all. I believe by now there is nothing much to say. You don't have to worry about other dependencies. "There is none." Just JavaScript.
 
