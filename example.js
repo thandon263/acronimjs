@@ -1,7 +1,7 @@
 
 const acrnm = require("./")
 
-acrnm("by the way", (err, result) => {
+acrnm("By The Way", (err, result) => {
 	 try {
 		console.log(result.toLowerCase())		
 	} catch(err) {

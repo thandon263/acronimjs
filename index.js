@@ -14,7 +14,7 @@ module.exports = function acronym(sentence, callback) {
         		return callback('¯\\_(ツ)_/¯');
     		} else {
         		const words = sentence.split(' ');
-        		const acronym = words.map((word) => word[0]);	
+        		const acronym = words.map((word) => word[0].toLowerCase());	
 			
 			resolve(acronym.join(''));
         		return callback(null, acronym.join(''));
