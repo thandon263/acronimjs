@@ -1,8 +1,8 @@
 # Acronimjs
 
-![node (scoped with tag)](https://img.shields.io/node/v/@stdlib/stdlib/latest.svg?style=for-the-badge) ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge) ![GitHub All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=for-the-badge)
+This is a free module for creating acronyms. It's all yours, basically download the zip file or you can clone or fork the repository in order to get things better. I'm still working on better modules. [NPM Module](https://www.npmjs.com/package/acronimjs)
 
-This is a free module for creating acronyms. It's all yours, basically download the zip file or you can clone or fork the repository in order to get things better. I'm still working on better modules. 
+![node (scoped with tag)](https://img.shields.io/node/v/@stdlib/stdlib/latest.svg?style=for-the-badge) ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge) ![GitHub All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=for-the-badge)
 
 ## Usage 
 
